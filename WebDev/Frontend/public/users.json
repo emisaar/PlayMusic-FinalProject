@@ -1,0 +1,19 @@
+{
+    "users": [{
+            "user_id": 1,
+            "name": "Test",
+            "user_name": "dummy",
+            "email": "dummy@dummy.com",
+            "dob": "21 feb 2000",
+            "country": "MX"
+        },
+        {
+            "user_id": 2,
+            "name": "Dummy",
+            "user_name": "test",
+            "email": "test@test.com",
+            "dob": "30 feb 3000",
+            "country": "EU"
+        }
+    ]
+}

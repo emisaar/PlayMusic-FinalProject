@@ -1,0 +1,17 @@
+{
+    "sessions": [{
+            "session_id": 1,
+            "sign_id": "12-02-2022 00:00:00",
+            "sign_out": "12-02-2022 00:00:01",
+            "user_id": 1,
+            "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        },
+        {
+            "session_id": 2,
+            "sign_id": "12-02-2022 00:00:00",
+            "sign_out": "12-02-2022 00:00:01",
+            "user_id": 2,
+            "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpfaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+        }
+    ]
+}

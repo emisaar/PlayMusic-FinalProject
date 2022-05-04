@@ -1,0 +1,15 @@
+div {
+    overflow-x: hidden;
+}
+
+#img-container {
+    background-image: url("../Images/Home.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.text-div {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}

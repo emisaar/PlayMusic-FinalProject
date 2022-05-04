@@ -1,0 +1,9 @@
+.doughnut {
+    width: 25rem;
+}
+
+@media only screen and (max-width: 800px) {
+    .doughnut {
+        width: 100%;
+    }
+}

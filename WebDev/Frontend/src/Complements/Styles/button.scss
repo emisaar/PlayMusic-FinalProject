@@ -1,0 +1,53 @@
+$dark: #230608;
+$midDark: #570f15;
+$midLight: #7d161e;
+$light: #dfd6c7;
+$lightText: #E3DAC9;
+.btn-primary {
+    background-color: $midLight;
+    border: none;
+    border-radius: 10px;
+    &:active,
+    &:focus,
+    &:hover {
+        background-color: $midDark;
+    }
+}
+
+.download-handbook {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 95%;
+    text-align: center;
+}
+
+.download {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+}
+
+
+/* Darker background on mouse-over */
+
+.download:hover {
+    background-color: RoyalBlue;
+    color: white;
+}
+
+.download-handbook:hover {
+    background-color: RoyalBlue;
+    color: white;
+}

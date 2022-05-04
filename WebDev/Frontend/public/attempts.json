@@ -1,0 +1,19 @@
+{
+    "attempts": [{
+            "attempt_id": 1,
+            "level_id": 1,
+            "status": false,
+            "game_time": 120,
+            "user_id": 1,
+            "score": 1234
+        },
+        {
+            "attempt_id": 2,
+            "level_id": 1,
+            "status": true,
+            "game_time": 140,
+            "user_id": 2,
+            "score": 12345
+        }
+    ]
+}
