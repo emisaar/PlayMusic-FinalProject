@@ -16,7 +16,7 @@ Play Music
 Alejandro Díaz | A01276769 \
 Gael Pérez | A01753336 \
 Alfonso Pineda | A01660394 \
-Emiliano Saucedo | A01659258 \
+Emiliano Saucedo | A01659258
 
 ## GitHub project URL
 [Frontend](https://github.com/Gael210602/PlayMusic.git) \
